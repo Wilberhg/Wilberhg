@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wilber-h-godoy" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="wilber-h-godoy" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/wilber-h-godoy" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="wilber-h-godoy" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
